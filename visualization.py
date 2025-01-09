@@ -4,7 +4,8 @@ import networkx as nx
 import numpy as np
 from pyvis.network import Network
 import matplotlib.colors
-from IPython.core.display import display, HTML
+import pickle
+from utils import draw_network
 
 """For our analysis, we will be using the extracted genotype-based disease-disease associations projection (only the 1st layer).
 
@@ -18,6 +19,9 @@ df.head()
 """## Initializing the Network"""
 
 G = nx.from_pandas_edgelist(df, source='disease1', target='disease2', edge_attr='weight')
+# save the network for later use
+with open("data/network.gpickle", "wb") as f:
+    pickle.dump(G, f)
 
 """## Visualizing the Network
 
@@ -54,11 +58,5 @@ for e in edge_data:
 
 net.show("networks/initial_network.html")
 # display(HTML("network.html"))
-
-def draw_network(network):
-    pos=nx.spring_layout(network)
-    nx.draw(network, pos, with_labels=False, node_size=3, width=0.3, edge_color='grey')
-    plt.show()
-    plt.clf()
 
 draw_network(G)

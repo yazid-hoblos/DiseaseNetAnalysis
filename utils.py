@@ -8,7 +8,13 @@ import random as rnd
 import collections
 from scipy.stats import linregress
 
-def plot_centrality(network, centrality):
+def draw_network(network):
+    pos=nx.spring_layout(network)
+    nx.draw(network, pos, with_labels=False, node_size=3, width=0.3, edge_color='grey')
+    plt.show()
+    plt.clf()
+
+def plot_centrality(network, centrality,name=None):
     cent = centrality(network)
     sorted_cent = sorted(cent.items(), key=lambda x:x[1], reverse=True)
     plt.hist(list(cent.values()), bins=20, edgecolor='black', alpha=0.7)
@@ -16,7 +22,7 @@ def plot_centrality(network, centrality):
     plt.title(centrality.__name__)
     plt.xlabel(f"{centrality.__name__} Distribution")
     plt.ylabel("Frequency")
-    plt.show()
+    plt.savefig(f"plots/{name+'_'+centrality.__name__}.png")
     plt.clf()
 
     return
@@ -67,12 +73,12 @@ def print_metrics(network, network_name="Disease Network"):
         print("Diameter:", nx.diameter(network.subgraph(largest_component)))
     print("--------------------------")
 
-def plot_centralities(network):
-    plot_centrality(network, nx.degree_centrality)
-    plot_centrality(network, nx.betweenness_centrality)
-    plot_centrality(network, nx.closeness_centrality)
-    plot_centrality(network, nx.eigenvector_centrality)
-    plot_centrality(network, nx.clustering)
+def plot_centralities(network, title):
+    plot_centrality(network, nx.degree_centrality, title)
+    plot_centrality(network, nx.betweenness_centrality, title)
+    plot_centrality(network, nx.closeness_centrality, title)
+    plot_centrality(network, nx.eigenvector_centrality, title)
+    plot_centrality(network, nx.clustering, title)
     
 def hidden_parameter_network(N, e_k, omega=2.5):
     # e_k is the expected degree of each node, omega is the exponent of the power law
