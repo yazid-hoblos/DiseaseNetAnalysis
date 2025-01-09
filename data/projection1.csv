@@ -1,0 +1,1116 @@
+disease1,disease2,weight
+46 XX gonadal dysgenesis,ovarian hyperstimulation syndrome,1
+46 XX gonadal dysgenesis,46 XY gonadal dysgenesis,1
+46 XY gonadal dysgenesis,azoospermia,1
+46 XY gonadal dysgenesis,premature ovarian failure,1
+azoospermia,premature ovarian failure,1
+premature ovarian failure,"blepharophimosis, ptosis, and epicanthus inversus syndrome",1
+premature ovarian failure,fragile X syndrome,1
+premature ovarian failure,fragile X-associated tremor/ataxia syndrome,1
+ABCD syndrome,Hirschsprung's disease,1
+ABCD syndrome,Waardenburg's syndrome,1
+Hirschsprung's disease,Waardenburg's syndrome,1
+Hirschsprung's disease,MEN2A,1
+Hirschsprung's disease,MEN2B,1
+Hirschsprung's disease,familial medullary thyroid carcinoma,1
+Hirschsprung's disease,phaeochromocytoma,1
+Hirschsprung's disease,renal agenesis,1
+Waardenburg's syndrome,alveolar rhabdomyosarcoma,2
+Waardenburg's syndrome,skin melanoma,1
+Waardenburg's syndrome,piebaldism,1
+ACTH-secreting pituitary adenoma,growth hormone secreting pituitary adenoma,1
+ACTH-secreting pituitary adenoma,prolactinoma,1
+growth hormone secreting pituitary adenoma,prolactinoma,1
+growth hormone secreting pituitary adenoma,Albright's hereditary osteodystrophy,1
+growth hormone secreting pituitary adenoma,pseudohypoparathyroidism,2
+growth hormone secreting pituitary adenoma,pseudopseudohypoparathyroidism,1
+Aicardi-Goutieres syndrome,systemic lupus erythematosus,1
+Aicardi-Goutieres syndrome,dyschromatosis symmetrica hereditaria,1
+systemic lupus erythematosus,complement component 4a deficiency,1
+systemic lupus erythematosus,rheumatoid arthritis,1
+systemic lupus erythematosus,type 1 diabetes mellitus,1
+Alagille syndrome,tetralogy of Fallot,1
+Alagille syndrome,Hajdu-Cheney syndrome,1
+tetralogy of Fallot,DiGeorge syndrome,1
+tetralogy of Fallot,double outlet right ventricle,4
+tetralogy of Fallot,velocardiofacial syndrome,1
+tetralogy of Fallot,atrial heart septal defect,3
+tetralogy of Fallot,congenital hypothyroidism,1
+tetralogy of Fallot,hypoplastic left heart syndrome,1
+tetralogy of Fallot,ventricular septal defect,2
+tetralogy of Fallot,atrioventricular septal defect,2
+tetralogy of Fallot,congenital diaphragmatic hernia,1
+Aland Island eye disease,cone-rod dystrophy,1
+Aland Island eye disease,congenital stationary night blindness,1
+cone-rod dystrophy,congenital stationary night blindness,1
+cone-rod dystrophy,Bothnia retinal dystrophy,1
+cone-rod dystrophy,fundus albipunctatus,1
+cone-rod dystrophy,Leber congenital amaurosis,3
+cone-rod dystrophy,retinitis pigmentosa,5
+cone-rod dystrophy,Stargardt disease,2
+cone-rod dystrophy,age related macular degeneration,2
+congenital stationary night blindness,retinitis pigmentosa,2
+congenital stationary night blindness,fundus albipunctatus,1
+Albright's hereditary osteodystrophy,pseudohypoparathyroidism,2
+Albright's hereditary osteodystrophy,pseudopseudohypoparathyroidism,1
+pseudohypoparathyroidism,pseudopseudohypoparathyroidism,2
+Alzheimer's disease,cerebral amyloid angiopathy,1
+Alzheimer's disease,hemochromatosis,1
+Alzheimer's disease,porphyria cutanea tarda,1
+Alzheimer's disease,variegate porphyria,1
+Alzheimer's disease,cerebrovascular disease,1
+Alzheimer's disease,essential hypertension,1
+Alzheimer's disease,pre-eclampsia,1
+Alzheimer's disease,sea-blue histiocyte syndrome,1
+Alzheimer's disease,dilated cardiomyopathy,2
+Alzheimer's disease,Pick's disease,1
+Alzheimer's disease,frontotemporal dementia,1
+Alzheimer's disease,hidradenitis suppurativa,1
+cerebral amyloid angiopathy,age related macular degeneration,1
+hemochromatosis,porphyria cutanea tarda,1
+hemochromatosis,variegate porphyria,1
+hemochromatosis,brachydactyly,1
+porphyria cutanea tarda,variegate porphyria,1
+cerebrovascular disease,essential hypertension,1
+cerebrovascular disease,pre-eclampsia,1
+cerebrovascular disease,prothrombin deficiency,1
+cerebrovascular disease,thrombophilia,1
+cerebrovascular disease,factor V deficiency,1
+essential hypertension,pre-eclampsia,1
+pre-eclampsia,Antley-Bixler syndrome,1
+pre-eclampsia,Beare-Stevenson cutis gyrata syndrome,1
+pre-eclampsia,Crouzon syndrome,1
+pre-eclampsia,LADD syndrome,1
+pre-eclampsia,Pfeiffer syndrome,1
+pre-eclampsia,Saethre-Chotzen syndrome,1
+pre-eclampsia,acrocephalosyndactylia,1
+pre-eclampsia,stomach cancer,1
+dilated cardiomyopathy,Pick's disease,1
+dilated cardiomyopathy,frontotemporal dementia,1
+dilated cardiomyopathy,hidradenitis suppurativa,1
+dilated cardiomyopathy,Becker muscular dystrophy,1
+dilated cardiomyopathy,Duchenne muscular dystrophy,1
+dilated cardiomyopathy,Brugada syndrome,1
+dilated cardiomyopathy,familial atrial fibrillation,2
+dilated cardiomyopathy,long QT syndrome,1
+dilated cardiomyopathy,sick sinus syndrome,1
+dilated cardiomyopathy,sudden infant death syndrome,1
+dilated cardiomyopathy,Charcot-Marie-Tooth disease type 2,1
+dilated cardiomyopathy,Emery-Dreifuss muscular dystrophy,1
+dilated cardiomyopathy,congenital muscular dystrophy,1
+dilated cardiomyopathy,familial partial lipodystrophy,1
+dilated cardiomyopathy,limb-girdle muscular dystrophy,6
+dilated cardiomyopathy,progeria,1
+dilated cardiomyopathy,Fukuyama congenital muscular dystrophy,1
+dilated cardiomyopathy,muscular dystrophy-dystroglycanopathy,1
+dilated cardiomyopathy,LEOPARD syndrome,1
+dilated cardiomyopathy,Noonan syndrome,1
+dilated cardiomyopathy,Leigh disease,1
+dilated cardiomyopathy,paraganglioma,1
+dilated cardiomyopathy,arrhythmogenic right ventricular cardiomyopathy,1
+dilated cardiomyopathy,atrial heart septal defect,2
+dilated cardiomyopathy,hypertrophic cardiomyopathy,13
+dilated cardiomyopathy,autosomal dominant nonsyndromic deafness,1
+dilated cardiomyopathy,restrictive cardiomyopathy,3
+dilated cardiomyopathy,distal muscular dystrophy,1
+dilated cardiomyopathy,scapuloperoneal myopathy,1
+dilated cardiomyopathy,posterior polar cataract,1
+Pick's disease,frontotemporal dementia,2
+Pick's disease,hidradenitis suppurativa,1
+Pick's disease,Parkinson's disease,1
+Pick's disease,progressive supranuclear palsy,1
+frontotemporal dementia,hidradenitis suppurativa,1
+frontotemporal dementia,Parkinson's disease,1
+frontotemporal dementia,progressive supranuclear palsy,1
+frontotemporal dementia,amyotrophic lateral sclerosis type 17,1
+Andersen-Tawil syndrome,familial atrial fibrillation,1
+Andersen-Tawil syndrome,long QT syndrome,1
+Andersen-Tawil syndrome,short QT syndrome,1
+familial atrial fibrillation,long QT syndrome,4
+familial atrial fibrillation,short QT syndrome,2
+familial atrial fibrillation,Brugada syndrome,1
+familial atrial fibrillation,sick sinus syndrome,1
+familial atrial fibrillation,sudden infant death syndrome,1
+familial atrial fibrillation,Jervell-Lange Nielsen syndrome,1
+long QT syndrome,short QT syndrome,3
+long QT syndrome,Brugada syndrome,2
+long QT syndrome,sick sinus syndrome,1
+long QT syndrome,sudden infant death syndrome,1
+long QT syndrome,Jervell-Lange Nielsen syndrome,2
+long QT syndrome,distal muscular dystrophy,1
+long QT syndrome,hypertrophic cardiomyopathy,1
+long QT syndrome,limb-girdle muscular dystrophy,1
+long QT syndrome,rippling muscle disease,1
+long QT syndrome,hyperaldosteronism,1
+short QT syndrome,Jervell-Lange Nielsen syndrome,1
+Angelman syndrome,Ohtahara syndrome,1
+Angelman syndrome,infantile epileptic encephalopathy,1
+Angelman syndrome,Rett syndrome,1
+Angelman syndrome,autistic disorder,1
+Angelman syndrome,syndromic X-linked intellectual disability,1
+Ohtahara syndrome,infantile epileptic encephalopathy,10
+Ohtahara syndrome,Partington syndrome,1
+Ohtahara syndrome,lissencephaly,1
+Ohtahara syndrome,benign neonatal seizures,1
+Ohtahara syndrome,benign familial infantile epilepsy,1
+Ohtahara syndrome,autosomal recessive non-syndromic intellectual disability,1
+infantile epileptic encephalopathy,Dravet Syndrome,2
+infantile epileptic encephalopathy,familial hemiplegic migraine,1
+infantile epileptic encephalopathy,generalized epilepsy with febrile seizures plus,2
+infantile epileptic encephalopathy,benign neonatal seizures,1
+infantile epileptic encephalopathy,benign familial infantile epilepsy,1
+Rett syndrome,autistic disorder,1
+Rett syndrome,syndromic X-linked intellectual disability,1
+autistic disorder,syndromic X-linked intellectual disability,1
+autistic disorder,Asperger syndrome,2
+Antley-Bixler syndrome,Beare-Stevenson cutis gyrata syndrome,1
+Antley-Bixler syndrome,Crouzon syndrome,1
+Antley-Bixler syndrome,LADD syndrome,1
+Antley-Bixler syndrome,Pfeiffer syndrome,1
+Antley-Bixler syndrome,Saethre-Chotzen syndrome,1
+Antley-Bixler syndrome,acrocephalosyndactylia,1
+Antley-Bixler syndrome,stomach cancer,1
+Beare-Stevenson cutis gyrata syndrome,Crouzon syndrome,1
+Beare-Stevenson cutis gyrata syndrome,LADD syndrome,1
+Beare-Stevenson cutis gyrata syndrome,Pfeiffer syndrome,1
+Beare-Stevenson cutis gyrata syndrome,Saethre-Chotzen syndrome,1
+Beare-Stevenson cutis gyrata syndrome,acrocephalosyndactylia,1
+Beare-Stevenson cutis gyrata syndrome,stomach cancer,1
+Crouzon syndrome,LADD syndrome,1
+Crouzon syndrome,Pfeiffer syndrome,1
+Crouzon syndrome,Saethre-Chotzen syndrome,1
+Crouzon syndrome,acrocephalosyndactylia,1
+Crouzon syndrome,stomach cancer,1
+LADD syndrome,Pfeiffer syndrome,1
+LADD syndrome,Saethre-Chotzen syndrome,1
+LADD syndrome,acrocephalosyndactylia,1
+LADD syndrome,stomach cancer,1
+LADD syndrome,achondroplasia,1
+LADD syndrome,cervix carcinoma,1
+LADD syndrome,colon carcinoma,1
+LADD syndrome,colorectal cancer,1
+LADD syndrome,epidermal nevus,1
+LADD syndrome,seminoma,1
+LADD syndrome,testicular cancer,1
+LADD syndrome,testicular germ cell cancer,1
+LADD syndrome,thanatophoric dysplasia,2
+LADD syndrome,urinary bladder cancer,1
+Pfeiffer syndrome,Saethre-Chotzen syndrome,1
+Pfeiffer syndrome,acrocephalosyndactylia,1
+Pfeiffer syndrome,stomach cancer,1
+Pfeiffer syndrome,Kallmann syndrome,1
+Saethre-Chotzen syndrome,acrocephalosyndactylia,1
+Saethre-Chotzen syndrome,stomach cancer,1
+Saethre-Chotzen syndrome,craniosynostosis,1
+acrocephalosyndactylia,stomach cancer,1
+stomach cancer,Noonan syndrome,1
+stomach cancer,breast cancer,3
+stomach cancer,cardiofaciocutaneous syndrome,1
+stomach cancer,lung cancer,4
+stomach cancer,pancreatic carcinoma,1
+stomach cancer,urinary bladder cancer,1
+stomach cancer,autoimmune lymphoproliferative syndrome,1
+stomach cancer,non-Hodgkin lymphoma,1
+stomach cancer,endometrial carcinoma,1
+stomach cancer,ovarian cancer,2
+stomach cancer,prostate cancer,2
+stomach cancer,colon carcinoma,2
+stomach cancer,colorectal cancer,2
+stomach cancer,epidermal nevus,1
+stomach cancer,hepatocellular carcinoma,2
+stomach cancer,seborrheic keratosis,1
+stomach cancer,familial adenomatous polyposis,2
+stomach cancer,pilomatrixoma,1
+stomach cancer,malignant glioma,1
+Arts syndrome,Charcot-Marie-Tooth disease type X,1
+Arts syndrome,X-linked nonsyndromic deafness,1
+Charcot-Marie-Tooth disease type X,X-linked nonsyndromic deafness,1
+Charcot-Marie-Tooth disease type X,combined oxidative phosphorylation deficiency,1
+X-linked nonsyndromic deafness,sensorineural hearing loss,1
+Axenfeld-Rieger syndrome,iridogoniodysgenesis syndrome,2
+Baller-Gerold syndrome,Rothmund-Thomson syndrome,1
+Baller-Gerold syndrome,rapadilino syndrome,1
+Rothmund-Thomson syndrome,rapadilino syndrome,1
+Bannayan-Riley-Ruvalcaba syndrome,Cowden disease,1
+Bannayan-Riley-Ruvalcaba syndrome,VACTERL association,1
+Bannayan-Riley-Ruvalcaba syndrome,dysplastic nevus syndrome,1
+Bannayan-Riley-Ruvalcaba syndrome,endometrial carcinoma,1
+Bannayan-Riley-Ruvalcaba syndrome,familial meningioma,1
+Bannayan-Riley-Ruvalcaba syndrome,follicular thyroid carcinoma,1
+Bannayan-Riley-Ruvalcaba syndrome,head and neck squamous cell carcinoma,1
+Bannayan-Riley-Ruvalcaba syndrome,melanoma,1
+Bannayan-Riley-Ruvalcaba syndrome,prostate cancer,1
+Bannayan-Riley-Ruvalcaba syndrome,skin melanoma,1
+Cowden disease,VACTERL association,1
+Cowden disease,dysplastic nevus syndrome,1
+Cowden disease,endometrial carcinoma,1
+Cowden disease,familial meningioma,1
+Cowden disease,follicular thyroid carcinoma,1
+Cowden disease,head and neck squamous cell carcinoma,1
+Cowden disease,melanoma,1
+Cowden disease,prostate cancer,1
+Cowden disease,skin melanoma,1
+Cowden disease,gastrointestinal stromal tumor,1
+Cowden disease,phaeochromocytoma,1
+VACTERL association,dysplastic nevus syndrome,1
+VACTERL association,endometrial carcinoma,1
+VACTERL association,familial meningioma,1
+VACTERL association,follicular thyroid carcinoma,1
+VACTERL association,head and neck squamous cell carcinoma,1
+VACTERL association,melanoma,1
+VACTERL association,prostate cancer,1
+VACTERL association,skin melanoma,1
+VACTERL association,brachydactyly-syndactyly syndrome,1
+VACTERL association,brachydactyly,2
+VACTERL association,syndactyly,1
+VACTERL association,synpolydactyly,1
+dysplastic nevus syndrome,endometrial carcinoma,1
+dysplastic nevus syndrome,familial meningioma,1
+dysplastic nevus syndrome,follicular thyroid carcinoma,1
+dysplastic nevus syndrome,head and neck squamous cell carcinoma,1
+dysplastic nevus syndrome,melanoma,1
+dysplastic nevus syndrome,prostate cancer,1
+dysplastic nevus syndrome,skin melanoma,1
+endometrial carcinoma,familial meningioma,1
+endometrial carcinoma,follicular thyroid carcinoma,1
+endometrial carcinoma,head and neck squamous cell carcinoma,1
+endometrial carcinoma,melanoma,1
+endometrial carcinoma,prostate cancer,2
+endometrial carcinoma,skin melanoma,1
+endometrial carcinoma,breast cancer,1
+endometrial carcinoma,ovarian cancer,1
+endometrial carcinoma,colon carcinoma,1
+endometrial carcinoma,colorectal cancer,1
+familial meningioma,follicular thyroid carcinoma,1
+familial meningioma,head and neck squamous cell carcinoma,1
+familial meningioma,melanoma,1
+familial meningioma,prostate cancer,1
+familial meningioma,skin melanoma,1
+familial meningioma,basal ganglia calcification,1
+familial meningioma,desmoplastic medulloblastoma,1
+familial meningioma,medulloblastoma,1
+familial meningioma,nevoid basal cell carcinoma syndrome,1
+familial meningioma,neurilemmomatosis,1
+familial meningioma,neurofibromatosis,1
+follicular thyroid carcinoma,head and neck squamous cell carcinoma,1
+follicular thyroid carcinoma,melanoma,1
+follicular thyroid carcinoma,prostate cancer,1
+follicular thyroid carcinoma,skin melanoma,1
+follicular thyroid carcinoma,Costello syndrome,1
+follicular thyroid carcinoma,epidermal nevus,2
+follicular thyroid carcinoma,urinary bladder cancer,1
+follicular thyroid carcinoma,Noonan syndrome,1
+follicular thyroid carcinoma,autoimmune lymphoproliferative syndrome,1
+follicular thyroid carcinoma,colon carcinoma,1
+follicular thyroid carcinoma,colorectal cancer,1
+head and neck squamous cell carcinoma,melanoma,1
+head and neck squamous cell carcinoma,prostate cancer,1
+head and neck squamous cell carcinoma,skin melanoma,1
+melanoma,prostate cancer,1
+melanoma,skin melanoma,1
+prostate cancer,skin melanoma,1
+prostate cancer,Fanconi's anemia,1
+prostate cancer,breast cancer,3
+prostate cancer,desmoplastic medulloblastoma,1
+prostate cancer,hereditary breast ovarian cancer,1
+prostate cancer,medulloblastoma,1
+prostate cancer,nephroblastoma,1
+prostate cancer,pancreatic cancer,1
+prostate cancer,Kennedy's disease,1
+prostate cancer,androgen insensitivity syndrome,1
+prostate cancer,hypospadias,1
+prostate cancer,Li-Fraumeni syndrome,1
+prostate cancer,osteosarcoma,1
+prostate cancer,ovarian cancer,1
+Baraitser-Winter syndrome,autosomal dominant nonsyndromic deafness,1
+autosomal dominant nonsyndromic deafness,Bart-Pumphrey syndrome,1
+autosomal dominant nonsyndromic deafness,autosomal recessive nonsyndromic deafness,9
+autosomal dominant nonsyndromic deafness,Clouston syndrome,1
+autosomal dominant nonsyndromic deafness,Stickler syndrome,1
+autosomal dominant nonsyndromic deafness,otospondylomegaepiphyseal dysplasia,1
+autosomal dominant nonsyndromic deafness,Usher syndrome,1
+autosomal dominant nonsyndromic deafness,angioma serpiginosum,1
+autosomal dominant nonsyndromic deafness,branchiootic syndrome,1
+autosomal dominant nonsyndromic deafness,dentin dysplasia,1
+autosomal dominant nonsyndromic deafness,dentinogenesis imperfecta,2
+autosomal dominant nonsyndromic deafness,erythrokeratodermia variabilis,1
+Bardet-Biedl syndrome,retinitis pigmentosa,1
+Bardet-Biedl syndrome,Joubert syndrome,1
+Bardet-Biedl syndrome,Meckel syndrome,1
+Bardet-Biedl syndrome,nephronophthisis,1
+retinitis pigmentosa,Joubert syndrome,1
+retinitis pigmentosa,Simpson-Golabi-Behmel syndrome,1
+retinitis pigmentosa,orofaciodigital syndrome,1
+retinitis pigmentosa,Leber congenital amaurosis,5
+retinitis pigmentosa,Stargardt disease,2
+retinitis pigmentosa,age related macular degeneration,1
+retinitis pigmentosa,Usher syndrome,1
+retinitis pigmentosa,bestrophinopathy,1
+retinitis pigmentosa,vitelliform macular dystrophy,2
+retinitis pigmentosa,fundus albipunctatus,2
+retinitis pigmentosa,partial central choroid dystrophy,1
+retinitis pigmentosa,hereditary night blindness,1
+Joubert syndrome,Meckel syndrome,6
+Joubert syndrome,nephronophthisis,2
+Joubert syndrome,Simpson-Golabi-Behmel syndrome,1
+Joubert syndrome,orofaciodigital syndrome,1
+Joubert syndrome,Senior-Loken syndrome,2
+Joubert syndrome,Leber congenital amaurosis,1
+Meckel syndrome,nephronophthisis,2
+Meckel syndrome,Leber congenital amaurosis,1
+Meckel syndrome,Senior-Loken syndrome,1
+Meckel syndrome,renal-hepatic-pancreatic dysplasia,1
+nephronophthisis,Senior-Loken syndrome,2
+nephronophthisis,renal-hepatic-pancreatic dysplasia,2
+nephronophthisis,asphyxiating thoracic dystrophy,2
+nephronophthisis,craniometaphyseal dysplasia,1
+Bart-Pumphrey syndrome,autosomal recessive nonsyndromic deafness,1
+autosomal recessive nonsyndromic deafness,Clouston syndrome,2
+autosomal recessive nonsyndromic deafness,Stickler syndrome,1
+autosomal recessive nonsyndromic deafness,otospondylomegaepiphyseal dysplasia,1
+autosomal recessive nonsyndromic deafness,Usher syndrome,6
+autosomal recessive nonsyndromic deafness,erythrokeratodermia variabilis,1
+autosomal recessive nonsyndromic deafness,nasopharynx carcinoma,1
+Becker muscular dystrophy,Duchenne muscular dystrophy,1
+Beckwith-Wiedemann syndrome,IMAGe syndrome,1
+Beckwith-Wiedemann syndrome,Silver-Russell syndrome,1
+Beckwith-Wiedemann syndrome,Sotos syndrome,1
+Beckwith-Wiedemann syndrome,acute myeloid leukemia,1
+Sotos syndrome,acute myeloid leukemia,1
+Sotos syndrome,Marshall-Smith syndrome,1
+acute myeloid leukemia,acute lymphocytic leukemia,1
+acute myeloid leukemia,autosomal recessive non-syndromic intellectual disability,1
+acute myeloid leukemia,hemorrhagic thrombocythemia,1
+acute myeloid leukemia,myelofibrosis,1
+acute myeloid leukemia,polycythemia vera,1
+acute myeloid leukemia,gastrointestinal stromal tumor,1
+acute myeloid leukemia,mastocytosis,1
+acute myeloid leukemia,piebaldism,1
+acute myeloid leukemia,seminoma,1
+acute myeloid leukemia,testicular cancer,1
+acute myeloid leukemia,testicular germ cell cancer,1
+acute myeloid leukemia,urticaria pigmentosa,1
+acute myeloid leukemia,dyskeratosis congenita,1
+Bethlem myopathy,Ullrich congenital muscular dystrophy,3
+Birt-Hogg-Dube syndrome,colon carcinoma,1
+Birt-Hogg-Dube syndrome,colorectal cancer,1
+Birt-Hogg-Dube syndrome,nonpapillary renal cell carcinoma,1
+colon carcinoma,colorectal cancer,25
+colon carcinoma,nonpapillary renal cell carcinoma,1
+colon carcinoma,achondroplasia,1
+colon carcinoma,cervix carcinoma,1
+colon carcinoma,epidermal nevus,3
+colon carcinoma,seminoma,1
+colon carcinoma,testicular cancer,1
+colon carcinoma,testicular germ cell cancer,1
+colon carcinoma,thanatophoric dysplasia,2
+colon carcinoma,urinary bladder cancer,1
+colon carcinoma,Li-Fraumeni syndrome,1
+colon carcinoma,adrenocortical carcinoma,1
+colon carcinoma,breast cancer,3
+colon carcinoma,choroid plexus papilloma,1
+colon carcinoma,hepatocellular carcinoma,5
+colon carcinoma,malignant glioma,1
+colon carcinoma,osteosarcoma,1
+colon carcinoma,pancreatic carcinoma,1
+colon carcinoma,Noonan syndrome,1
+colon carcinoma,autoimmune lymphoproliferative syndrome,1
+colon carcinoma,Proteus syndrome,1
+colon carcinoma,ovarian cancer,3
+colon carcinoma,schizophrenia,1
+colon carcinoma,Rubinstein-Taybi syndrome,1
+colon carcinoma,acute lymphocytic leukemia,1
+colon carcinoma,autosomal dominant non-syndromic intellectual disability,1
+colon carcinoma,pilomatrixoma,1
+colon carcinoma,lung cancer,1
+colon carcinoma,seborrheic keratosis,1
+colon carcinoma,familial adenomatous polyposis,1
+colon carcinoma,multiple myeloma,1
+colon carcinoma,von Hippel-Lindau disease,1
+colon carcinoma,non-Hodgkin lymphoma,1
+colon carcinoma,leprosy,1
+colorectal cancer,nonpapillary renal cell carcinoma,1
+colorectal cancer,achondroplasia,1
+colorectal cancer,cervix carcinoma,1
+colorectal cancer,epidermal nevus,3
+colorectal cancer,seminoma,1
+colorectal cancer,testicular cancer,1
+colorectal cancer,testicular germ cell cancer,1
+colorectal cancer,thanatophoric dysplasia,2
+colorectal cancer,urinary bladder cancer,1
+colorectal cancer,Li-Fraumeni syndrome,1
+colorectal cancer,adrenocortical carcinoma,1
+colorectal cancer,breast cancer,3
+colorectal cancer,choroid plexus papilloma,1
+colorectal cancer,hepatocellular carcinoma,5
+colorectal cancer,malignant glioma,1
+colorectal cancer,osteosarcoma,1
+colorectal cancer,pancreatic carcinoma,1
+colorectal cancer,Noonan syndrome,1
+colorectal cancer,autoimmune lymphoproliferative syndrome,1
+colorectal cancer,Proteus syndrome,1
+colorectal cancer,ovarian cancer,3
+colorectal cancer,schizophrenia,1
+colorectal cancer,Rubinstein-Taybi syndrome,1
+colorectal cancer,acute lymphocytic leukemia,1
+colorectal cancer,autosomal dominant non-syndromic intellectual disability,1
+colorectal cancer,pilomatrixoma,1
+colorectal cancer,lung cancer,1
+colorectal cancer,seborrheic keratosis,1
+colorectal cancer,familial adenomatous polyposis,1
+colorectal cancer,multiple myeloma,1
+colorectal cancer,von Hippel-Lindau disease,1
+colorectal cancer,non-Hodgkin lymphoma,1
+colorectal cancer,leprosy,1
+nonpapillary renal cell carcinoma,maturity-onset diabetes of the young,2
+nonpapillary renal cell carcinoma,type 2 diabetes mellitus,2
+nonpapillary renal cell carcinoma,type 1 diabetes mellitus,2
+nonpapillary renal cell carcinoma,phaeochromocytoma,1
+nonpapillary renal cell carcinoma,von Hippel-Lindau disease,1
+Bjornstad syndrome,Leigh disease,1
+Leigh disease,cytochrome-c oxidase deficiency disease,1
+Leigh disease,fatal infantile encephalocardiomyopathy,1
+Leigh disease,paraganglioma,1
+Blau syndrome,inflammatory bowel disease,1
+Blau syndrome,sarcoidosis,1
+Blau syndrome,ulcerative colitis,1
+inflammatory bowel disease,sarcoidosis,1
+inflammatory bowel disease,ulcerative colitis,2
+inflammatory bowel disease,Kaposi's sarcoma,1
+inflammatory bowel disease,juvenile rheumatoid arthritis,1
+inflammatory bowel disease,type 2 diabetes mellitus,1
+sarcoidosis,ulcerative colitis,1
+sarcoidosis,multiple sclerosis,1
+sarcoidosis,rheumatoid arthritis,1
+ulcerative colitis,Kaposi's sarcoma,1
+ulcerative colitis,juvenile rheumatoid arthritis,1
+ulcerative colitis,type 2 diabetes mellitus,1
+Bloch-Sulzberger syndrome,hypohidrotic ectodermal dysplasia,1
+hypohidrotic ectodermal dysplasia,tooth agenesis,1
+Boomerang dysplasia,Larsen syndrome,1
+Boomerang dysplasia,atelosteogenesis,2
+Larsen syndrome,atelosteogenesis,2
+atelosteogenesis,achondrogenesis type IB,1
+atelosteogenesis,diastrophic dysplasia,1
+atelosteogenesis,multiple epiphyseal dysplasia,1
+Bothnia retinal dystrophy,fundus albipunctatus,1
+fundus albipunctatus,partial central choroid dystrophy,1
+fundus albipunctatus,vitelliform macular dystrophy,1
+Bruck syndrome,osteogenesis imperfecta,1
+osteogenesis imperfecta,Caffey disease,4
+osteogenesis imperfecta,osteoporosis,7
+osteogenesis imperfecta,type I Ehlers-Danlos syndrome,4
+Brugada syndrome,sick sinus syndrome,2
+Brugada syndrome,sudden infant death syndrome,1
+Brugada syndrome,generalized epilepsy with febrile seizures plus,1
+sick sinus syndrome,sudden infant death syndrome,1
+generalized epilepsy with febrile seizures plus,Dravet Syndrome,2
+generalized epilepsy with febrile seizures plus,familial hemiplegic migraine,1
+CHARGE syndrome,Kallmann syndrome,1
+CLONE OF congenital afibrinogenemia,congenital afibrinogenemia,3
+CLONE OF congenital afibrinogenemia,familial visceral amyloidosis,1
+congenital afibrinogenemia,familial visceral amyloidosis,1
+Caffey disease,osteoporosis,1
+Caffey disease,type I Ehlers-Danlos syndrome,1
+osteoporosis,type I Ehlers-Danlos syndrome,1
+osteoporosis,exudative vitreoretinopathy,1
+osteoporosis,osteopetrosis,1
+osteoporosis,rickets,1
+Camurati-Engelmann disease,cystic fibrosis,1
+cystic fibrosis,bronchiectasis,1
+Carney complex,acrodysostosis,1
+Carney complex,papillary thyroid carcinoma,1
+Carney complex,primary pigmented nodular adrenocortical disease,1
+Carney complex,distal arthrogryposis,1
+acrodysostosis,papillary thyroid carcinoma,1
+acrodysostosis,primary pigmented nodular adrenocortical disease,1
+papillary thyroid carcinoma,primary pigmented nodular adrenocortical disease,1
+primary pigmented nodular adrenocortical disease,striatonigral degeneration,1
+distal arthrogryposis,nemaline myopathy,2
+Charcot-Marie-Tooth disease intermediate type,centronuclear myopathy,1
+Charcot-Marie-Tooth disease intermediate type,Charcot-Marie-Tooth disease type 1,1
+Charcot-Marie-Tooth disease intermediate type,Charcot-Marie-Tooth disease type 2,3
+Charcot-Marie-Tooth disease intermediate type,Charcot-Marie-Tooth disease type 3,1
+Charcot-Marie-Tooth disease intermediate type,Charcot-Marie-Tooth disease type 4,4
+Charcot-Marie-Tooth disease intermediate type,focal segmental glomerulosclerosis,1
+Charcot-Marie-Tooth disease type 1,Charcot-Marie-Tooth disease type 2,3
+Charcot-Marie-Tooth disease type 1,Charcot-Marie-Tooth disease type 3,4
+Charcot-Marie-Tooth disease type 1,Charcot-Marie-Tooth disease type 4,6
+Charcot-Marie-Tooth disease type 1,Guillain-Barre syndrome,2
+Charcot-Marie-Tooth disease type 2,Charcot-Marie-Tooth disease type 3,2
+Charcot-Marie-Tooth disease type 2,Charcot-Marie-Tooth disease type 4,6
+Charcot-Marie-Tooth disease type 2,neuroblastoma,1
+Charcot-Marie-Tooth disease type 2,phaeochromocytoma,1
+Charcot-Marie-Tooth disease type 2,distal hereditary motor neuropathy,3
+Charcot-Marie-Tooth disease type 2,Emery-Dreifuss muscular dystrophy,1
+Charcot-Marie-Tooth disease type 2,congenital muscular dystrophy,1
+Charcot-Marie-Tooth disease type 2,familial partial lipodystrophy,1
+Charcot-Marie-Tooth disease type 2,limb-girdle muscular dystrophy,1
+Charcot-Marie-Tooth disease type 2,progeria,1
+Charcot-Marie-Tooth disease type 2,brachyolmia,1
+Charcot-Marie-Tooth disease type 2,autosomal dominant non-syndromic intellectual disability,1
+Charcot-Marie-Tooth disease type 3,Charcot-Marie-Tooth disease type 4,7
+Charcot-Marie-Tooth disease type 3,Guillain-Barre syndrome,1
+Charcot-Marie-Tooth disease type 4,Guillain-Barre syndrome,1
+Charcot-Marie-Tooth disease type 4,amyotrophic lateral sclerosis type 11,1
+Charcot-Marie-Tooth disease type 4,amyotrophic lateral sclerosis,1
+neuroblastoma,phaeochromocytoma,1
+phaeochromocytoma,gastrointestinal stromal tumor,1
+phaeochromocytoma,MEN2A,1
+phaeochromocytoma,MEN2B,1
+phaeochromocytoma,familial medullary thyroid carcinoma,1
+phaeochromocytoma,renal agenesis,1
+phaeochromocytoma,von Hippel-Lindau disease,1
+phaeochromocytoma,paraganglioma,1
+distal hereditary motor neuropathy,amyotrophic lateral sclerosis type 1,1
+distal hereditary motor neuropathy,amyotrophic lateral sclerosis,1
+distal hereditary motor neuropathy,congenital generalized lipodystrophy,1
+distal hereditary motor neuropathy,hereditary spastic paraplegia,1
+Emery-Dreifuss muscular dystrophy,congenital muscular dystrophy,1
+Emery-Dreifuss muscular dystrophy,familial partial lipodystrophy,1
+Emery-Dreifuss muscular dystrophy,limb-girdle muscular dystrophy,1
+Emery-Dreifuss muscular dystrophy,progeria,1
+Emery-Dreifuss muscular dystrophy,Robinow syndrome,1
+Emery-Dreifuss muscular dystrophy,scapuloperoneal myopathy,1
+Emery-Dreifuss muscular dystrophy,spinocerebellar ataxia,1
+Emery-Dreifuss muscular dystrophy,arrhythmogenic right ventricular cardiomyopathy,1
+congenital muscular dystrophy,familial partial lipodystrophy,1
+congenital muscular dystrophy,limb-girdle muscular dystrophy,2
+congenital muscular dystrophy,progeria,1
+congenital muscular dystrophy,muscular dystrophy-dystroglycanopathy,2
+familial partial lipodystrophy,limb-girdle muscular dystrophy,1
+familial partial lipodystrophy,progeria,1
+familial partial lipodystrophy,obesity,1
+familial partial lipodystrophy,type 2 diabetes mellitus,1
+limb-girdle muscular dystrophy,progeria,1
+limb-girdle muscular dystrophy,Fukuyama congenital muscular dystrophy,1
+limb-girdle muscular dystrophy,muscular dystrophy-dystroglycanopathy,9
+limb-girdle muscular dystrophy,Walker-Warburg syndrome,2
+limb-girdle muscular dystrophy,hypertrophic cardiomyopathy,2
+limb-girdle muscular dystrophy,distal muscular dystrophy,4
+limb-girdle muscular dystrophy,rippling muscle disease,1
+autosomal dominant non-syndromic intellectual disability,atypical teratoid rhabdoid tumor,1
+autosomal dominant non-syndromic intellectual disability,neurilemmomatosis,1
+autosomal dominant non-syndromic intellectual disability,hereditary sensory neuropathy,1
+autosomal dominant non-syndromic intellectual disability,hereditary spastic paraplegia,1
+autosomal dominant non-syndromic intellectual disability,autosomal recessive non-syndromic intellectual disability,1
+autosomal dominant non-syndromic intellectual disability,hepatocellular carcinoma,1
+autosomal dominant non-syndromic intellectual disability,ovarian cancer,1
+autosomal dominant non-syndromic intellectual disability,pilomatrixoma,1
+amyotrophic lateral sclerosis type 11,amyotrophic lateral sclerosis,1
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 10,1
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 12,1
+amyotrophic lateral sclerosis,primary open angle glaucoma,1
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 1,4
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 2,1
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 4,1
+amyotrophic lateral sclerosis,spinocerebellar ataxia,1
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 6,1
+amyotrophic lateral sclerosis,essential tremor,1
+amyotrophic lateral sclerosis,amyotrophic lateral sclerosis type 9,1
+combined oxidative phosphorylation deficiency,hereditary spastic paraplegia,1
+Cockayne syndrome,UV-sensitive syndrome,2
+Cockayne syndrome,lung cancer,1
+UV-sensitive syndrome,lung cancer,1
+lung cancer,LEOPARD syndrome,1
+lung cancer,Noonan syndrome,2
+lung cancer,cardiofaciocutaneous syndrome,2
+lung cancer,breast cancer,4
+lung cancer,pancreatic carcinoma,1
+lung cancer,urinary bladder cancer,1
+lung cancer,Parkinson's disease,1
+lung cancer,ovarian cancer,2
+lung cancer,autoimmune lymphoproliferative syndrome,2
+lung cancer,hepatocellular carcinoma,2
+lung cancer,epidermal nevus,1
+lung cancer,seborrheic keratosis,1
+lung cancer,embryonal rhabdomyosarcoma,1
+lung cancer,esophagus squamous cell carcinoma,1
+lung cancer,malignant glioma,1
+Coffin-Lowry syndrome,non-syndromic X-linked intellectual disability,1
+Costello syndrome,epidermal nevus,1
+Costello syndrome,urinary bladder cancer,1
+epidermal nevus,urinary bladder cancer,2
+epidermal nevus,achondroplasia,1
+epidermal nevus,cervix carcinoma,1
+epidermal nevus,seminoma,1
+epidermal nevus,testicular cancer,1
+epidermal nevus,testicular germ cell cancer,1
+epidermal nevus,thanatophoric dysplasia,2
+epidermal nevus,Noonan syndrome,1
+epidermal nevus,autoimmune lymphoproliferative syndrome,1
+epidermal nevus,breast cancer,1
+epidermal nevus,hepatocellular carcinoma,1
+epidermal nevus,ovarian cancer,1
+epidermal nevus,seborrheic keratosis,1
+urinary bladder cancer,achondroplasia,1
+urinary bladder cancer,cervix carcinoma,1
+urinary bladder cancer,seminoma,1
+urinary bladder cancer,testicular cancer,1
+urinary bladder cancer,testicular germ cell cancer,1
+urinary bladder cancer,thanatophoric dysplasia,2
+urinary bladder cancer,Noonan syndrome,1
+urinary bladder cancer,breast cancer,1
+urinary bladder cancer,cardiofaciocutaneous syndrome,1
+urinary bladder cancer,pancreatic carcinoma,1
+urinary bladder cancer,lung small cell carcinoma,1
+urinary bladder cancer,osteosarcoma,1
+urinary bladder cancer,retinoblastoma,1
+urinary bladder cancer,trilateral retinoblastoma,1
+gastrointestinal stromal tumor,mastocytosis,1
+gastrointestinal stromal tumor,piebaldism,1
+gastrointestinal stromal tumor,seminoma,1
+gastrointestinal stromal tumor,testicular cancer,1
+gastrointestinal stromal tumor,testicular germ cell cancer,1
+gastrointestinal stromal tumor,urticaria pigmentosa,1
+gastrointestinal stromal tumor,paraganglioma,1
+Creutzfeldt-Jakob disease,celiac disease,1
+Creutzfeldt-Jakob disease,multiple sclerosis,1
+Creutzfeldt-Jakob disease,Gerstmann-Straussler-Scheinker syndrome,1
+Creutzfeldt-Jakob disease,fatal familial insomnia,1
+celiac disease,multiple sclerosis,1
+multiple sclerosis,rheumatoid arthritis,1
+Gerstmann-Straussler-Scheinker syndrome,fatal familial insomnia,1
+Crigler-Najjar syndrome,Gilbert syndrome,1
+DNA ligase IV deficiency,multiple myeloma,1
+multiple myeloma,von Hippel-Lindau disease,1
+Denys-Drash syndrome,Frasier syndrome,1
+Denys-Drash syndrome,malignant mesothelioma,1
+Denys-Drash syndrome,nephroblastoma,1
+Denys-Drash syndrome,nephrotic syndrome,1
+Frasier syndrome,malignant mesothelioma,1
+Frasier syndrome,nephroblastoma,1
+Frasier syndrome,nephrotic syndrome,1
+malignant mesothelioma,nephroblastoma,1
+malignant mesothelioma,nephrotic syndrome,1
+malignant mesothelioma,seminoma,1
+malignant mesothelioma,testicular cancer,1
+malignant mesothelioma,testicular germ cell cancer,1
+nephroblastoma,nephrotic syndrome,1
+nephroblastoma,Fanconi's anemia,1
+nephroblastoma,breast cancer,1
+nephroblastoma,desmoplastic medulloblastoma,1
+nephroblastoma,hereditary breast ovarian cancer,1
+nephroblastoma,medulloblastoma,1
+nephroblastoma,pancreatic cancer,1
+nephroblastoma,Simpson-Golabi-Behmel syndrome,1
+DiGeorge syndrome,double outlet right ventricle,1
+DiGeorge syndrome,velocardiofacial syndrome,1
+double outlet right ventricle,velocardiofacial syndrome,1
+double outlet right ventricle,atrial heart septal defect,2
+double outlet right ventricle,congenital hypothyroidism,1
+double outlet right ventricle,hypoplastic left heart syndrome,1
+double outlet right ventricle,ventricular septal defect,1
+double outlet right ventricle,atrioventricular septal defect,1
+double outlet right ventricle,visceral heterotaxy,1
+Donohue Syndrome,hyperinsulinemic hypoglycemia,1
+hyperinsulinemic hypoglycemia,type 2 diabetes mellitus,3
+hyperinsulinemic hypoglycemia,maturity-onset diabetes of the young,1
+Down syndrome,thrombocytopenia,1
+thrombocytopenia,Wiskott-Aldrich syndrome,1
+thrombocytopenia,severe congenital neutropenia,1
+Dravet Syndrome,familial hemiplegic migraine,1
+familial hemiplegic migraine,alternating hemiplegia of childhood,1
+familial hemiplegic migraine,episodic ataxia,1
+familial hemiplegic migraine,spinocerebellar ataxia,1
+Ehlers-Danlos syndrome,type VI Ehlers-Danlos syndrome,1
+Robinow syndrome,scapuloperoneal myopathy,1
+scapuloperoneal myopathy,distal muscular dystrophy,1
+scapuloperoneal myopathy,hypertrophic cardiomyopathy,1
+spinocerebellar ataxia,Parkinson's disease,1
+spinocerebellar ataxia,amyotrophic lateral sclerosis type 4,1
+spinocerebellar ataxia,coenzyme Q10 deficiency disease,1
+spinocerebellar ataxia,episodic ataxia,1
+spinocerebellar ataxia,olivopontocerebellar atrophy,1
+FG syndrome,periventricular nodular heterotopia,2
+FG syndrome,Ohdo syndrome,1
+Fanconi's anemia,breast cancer,3
+Fanconi's anemia,desmoplastic medulloblastoma,1
+Fanconi's anemia,hereditary breast ovarian cancer,1
+Fanconi's anemia,medulloblastoma,1
+Fanconi's anemia,pancreatic cancer,1
+Fanconi's anemia,xeroderma pigmentosum,1
+breast cancer,desmoplastic medulloblastoma,1
+breast cancer,hereditary breast ovarian cancer,1
+breast cancer,medulloblastoma,1
+breast cancer,pancreatic cancer,1
+breast cancer,Li-Fraumeni syndrome,2
+breast cancer,adrenocortical carcinoma,1
+breast cancer,choroid plexus papilloma,1
+breast cancer,hepatocellular carcinoma,3
+breast cancer,malignant glioma,1
+breast cancer,osteosarcoma,2
+breast cancer,pancreatic carcinoma,2
+breast cancer,Noonan syndrome,1
+breast cancer,cardiofaciocutaneous syndrome,1
+breast cancer,Proteus syndrome,1
+breast cancer,ovarian cancer,3
+breast cancer,schizophrenia,1
+breast cancer,ataxia telangiectasia,1
+breast cancer,autoimmune lymphoproliferative syndrome,1
+breast cancer,migraine,1
+breast cancer,seborrheic keratosis,1
+breast cancer,non-Hodgkin lymphoma,1
+breast cancer,embryonal rhabdomyosarcoma,1
+desmoplastic medulloblastoma,hereditary breast ovarian cancer,1
+desmoplastic medulloblastoma,medulloblastoma,3
+desmoplastic medulloblastoma,pancreatic cancer,1
+desmoplastic medulloblastoma,basal cell carcinoma,1
+desmoplastic medulloblastoma,nevoid basal cell carcinoma syndrome,2
+hereditary breast ovarian cancer,medulloblastoma,1
+hereditary breast ovarian cancer,pancreatic cancer,1
+medulloblastoma,pancreatic cancer,1
+medulloblastoma,basal cell carcinoma,1
+medulloblastoma,nevoid basal cell carcinoma syndrome,2
+xeroderma pigmentosum,photosensitive trichothiodystrophy,2
+Fukuyama congenital muscular dystrophy,muscular dystrophy-dystroglycanopathy,1
+muscular dystrophy-dystroglycanopathy,Walker-Warburg syndrome,2
+Gaucher's disease,Lewy body dementia,4
+Gaucher's disease,Parkinson's disease,4
+Gaucher's disease,metachromatic leukodystrophy,1
+Lewy body dementia,Parkinson's disease,3
+Parkinson's disease,alcohol dependence,1
+Parkinson's disease,progressive supranuclear palsy,1
+Parkinson's disease,ovarian cancer,1
+Gilles de la Tourette syndrome,trichotillomania,1
+Greig cephalopolysyndactyly syndrome,Pallister-Hall syndrome,1
+Greig cephalopolysyndactyly syndrome,hamartoma of hypothalamus,1
+Greig cephalopolysyndactyly syndrome,polydactyly,2
+Pallister-Hall syndrome,hamartoma of hypothalamus,1
+Pallister-Hall syndrome,polydactyly,2
+hamartoma of hypothalamus,polydactyly,2
+polydactyly,acheiropody,1
+polydactyly,syndactyly,1
+Hermansky-Pudlak syndrome,schizophrenia,1
+schizophrenia,Proteus syndrome,1
+schizophrenia,ovarian cancer,1
+schizophrenia,alcohol dependence,1
+schizophrenia,essential tremor,1
+schizophrenia,homocystinuria,1
+schizophrenia,thrombophilia,1
+schizophrenia,panic disorder,1
+MEN2A,MEN2B,1
+MEN2A,familial medullary thyroid carcinoma,1
+MEN2A,renal agenesis,1
+MEN2B,familial medullary thyroid carcinoma,1
+MEN2B,renal agenesis,1
+familial medullary thyroid carcinoma,renal agenesis,1
+familial medullary thyroid carcinoma,hereditary sensory neuropathy,1
+Jensen syndrome,deafness dystonia syndrome,1
+Simpson-Golabi-Behmel syndrome,orofaciodigital syndrome,1
+Senior-Loken syndrome,Leber congenital amaurosis,1
+Leber congenital amaurosis,Klippel-Feil syndrome,1
+Leber congenital amaurosis,microphthalmia,1
+Kahrizi syndrome,congenital disorder of glycosylation type I,1
+congenital disorder of glycosylation type I,congenital disorder of glycosylation,1
+Kaposi's sarcoma,juvenile rheumatoid arthritis,1
+Kaposi's sarcoma,type 2 diabetes mellitus,1
+juvenile rheumatoid arthritis,type 2 diabetes mellitus,1
+type 2 diabetes mellitus,Wolfram syndrome,1
+type 2 diabetes mellitus,cataract,1
+type 2 diabetes mellitus,X-linked hypophosphatemia,1
+type 2 diabetes mellitus,arterial calcification of infancy,1
+type 2 diabetes mellitus,obesity,2
+type 2 diabetes mellitus,diabetic ketoacidosis,1
+type 2 diabetes mellitus,maturity-onset diabetes of the young,7
+type 2 diabetes mellitus,type 1 diabetes mellitus,2
+type 2 diabetes mellitus,pancreatic agenesis,1
+Kartagener syndrome,primary ciliary dyskinesia,1
+primary ciliary dyskinesia,dyslexia,1
+Kennedy's disease,androgen insensitivity syndrome,1
+Kennedy's disease,hypospadias,1
+androgen insensitivity syndrome,hypospadias,1
+Klippel-Feil syndrome,microphthalmia,2
+microphthalmia,Matthew-Wood syndrome,1
+microphthalmia,hypopituitarism,1
+microphthalmia,orofacial cleft,1
+achondroplasia,cervix carcinoma,1
+achondroplasia,seminoma,1
+achondroplasia,testicular cancer,1
+achondroplasia,testicular germ cell cancer,1
+achondroplasia,thanatophoric dysplasia,2
+cervix carcinoma,seminoma,1
+cervix carcinoma,testicular cancer,1
+cervix carcinoma,testicular germ cell cancer,1
+cervix carcinoma,thanatophoric dysplasia,2
+seminoma,testicular cancer,4
+seminoma,testicular germ cell cancer,4
+seminoma,thanatophoric dysplasia,2
+seminoma,Peutz-Jeghers syndrome,1
+seminoma,pancreatic carcinoma,1
+seminoma,mastocytosis,1
+seminoma,piebaldism,1
+seminoma,urticaria pigmentosa,1
+testicular cancer,testicular germ cell cancer,4
+testicular cancer,thanatophoric dysplasia,2
+testicular cancer,Peutz-Jeghers syndrome,1
+testicular cancer,pancreatic carcinoma,1
+testicular cancer,mastocytosis,1
+testicular cancer,piebaldism,1
+testicular cancer,urticaria pigmentosa,1
+testicular germ cell cancer,thanatophoric dysplasia,2
+testicular germ cell cancer,Peutz-Jeghers syndrome,1
+testicular germ cell cancer,pancreatic carcinoma,1
+testicular germ cell cancer,mastocytosis,1
+testicular germ cell cancer,piebaldism,1
+testicular germ cell cancer,urticaria pigmentosa,1
+LEOPARD syndrome,Noonan syndrome,3
+LEOPARD syndrome,juvenile myelomonocytic leukemia,1
+LEOPARD syndrome,cardiofaciocutaneous syndrome,1
+Noonan syndrome,juvenile myelomonocytic leukemia,1
+Noonan syndrome,cardiofaciocutaneous syndrome,2
+Noonan syndrome,pancreatic carcinoma,1
+Noonan syndrome,autoimmune lymphoproliferative syndrome,1
+juvenile myelomonocytic leukemia,neurofibromatosis,2
+cardiofaciocutaneous syndrome,pancreatic carcinoma,1
+Laron syndrome,familial hypercholesterolemia,1
+familial hypercholesterolemia,Tangier disease,1
+Legg-Calve-Perthes Disease,Stickler syndrome,1
+Legg-Calve-Perthes Disease,achondrogenesis type II,1
+Legg-Calve-Perthes Disease,otospondylomegaepiphyseal dysplasia,1
+Legg-Calve-Perthes Disease,"spondyloepimetaphyseal dysplasia, Strudwick type",1
+Legg-Calve-Perthes Disease,spondyloepiphyseal dysplasia congenita,1
+Stickler syndrome,achondrogenesis type II,1
+Stickler syndrome,otospondylomegaepiphyseal dysplasia,2
+Stickler syndrome,"spondyloepimetaphyseal dysplasia, Strudwick type",1
+Stickler syndrome,spondyloepiphyseal dysplasia congenita,1
+achondrogenesis type II,otospondylomegaepiphyseal dysplasia,1
+achondrogenesis type II,"spondyloepimetaphyseal dysplasia, Strudwick type",1
+achondrogenesis type II,spondyloepiphyseal dysplasia congenita,1
+otospondylomegaepiphyseal dysplasia,"spondyloepimetaphyseal dysplasia, Strudwick type",1
+otospondylomegaepiphyseal dysplasia,spondyloepiphyseal dysplasia congenita,1
+"spondyloepimetaphyseal dysplasia, Strudwick type",spondyloepiphyseal dysplasia congenita,1
+fatal infantile encephalocardiomyopathy,myopia,1
+Li-Fraumeni syndrome,adrenocortical carcinoma,1
+Li-Fraumeni syndrome,choroid plexus papilloma,1
+Li-Fraumeni syndrome,hepatocellular carcinoma,1
+Li-Fraumeni syndrome,malignant glioma,1
+Li-Fraumeni syndrome,osteosarcoma,2
+Li-Fraumeni syndrome,pancreatic carcinoma,1
+adrenocortical carcinoma,choroid plexus papilloma,1
+adrenocortical carcinoma,hepatocellular carcinoma,1
+adrenocortical carcinoma,malignant glioma,1
+adrenocortical carcinoma,osteosarcoma,1
+adrenocortical carcinoma,pancreatic carcinoma,1
+choroid plexus papilloma,hepatocellular carcinoma,1
+choroid plexus papilloma,malignant glioma,1
+choroid plexus papilloma,osteosarcoma,1
+choroid plexus papilloma,pancreatic carcinoma,1
+hepatocellular carcinoma,malignant glioma,1
+hepatocellular carcinoma,osteosarcoma,1
+hepatocellular carcinoma,pancreatic carcinoma,1
+hepatocellular carcinoma,autoimmune lymphoproliferative syndrome,1
+hepatocellular carcinoma,ovarian cancer,2
+hepatocellular carcinoma,pilomatrixoma,1
+hepatocellular carcinoma,seborrheic keratosis,1
+hepatocellular carcinoma,familial adenomatous polyposis,1
+hepatocellular carcinoma,papillary renal cell carcinoma,1
+malignant glioma,osteosarcoma,1
+malignant glioma,pancreatic carcinoma,1
+osteosarcoma,pancreatic carcinoma,1
+osteosarcoma,lung small cell carcinoma,1
+osteosarcoma,retinoblastoma,1
+osteosarcoma,trilateral retinoblastoma,1
+pancreatic carcinoma,Peutz-Jeghers syndrome,1
+pancreatic carcinoma,juvenile polyposis syndrome,1
+Liddle syndrome,bronchiectasis,2
+Loeys-Dietz syndrome,esophagus squamous cell carcinoma,1
+Lynch syndrome,Muir-Torre syndrome,2
+MASA syndrome,hydrocephalus,1
+MHC class II deficiency,rheumatoid arthritis,1
+rheumatoid arthritis,type 1 diabetes mellitus,1
+Marfan syndrome,Weill-Marchesani syndrome,1
+Weill-Marchesani syndrome,primary congenital glaucoma,1
+Moyamoya disease,thoracic aortic aneurysm,1
+Nijmegen breakage syndrome,acute lymphocytic leukemia,1
+acute lymphocytic leukemia,chronic myeloid leukemia,1
+autoimmune lymphoproliferative syndrome,non-Hodgkin lymphoma,1
+Partington syndrome,lissencephaly,1
+Paget's disease of bone,osteopetrosis,1
+osteopetrosis,exudative vitreoretinopathy,1
+Papillon-Lefevre disease,aggressive periodontitis,1
+ovarian cancer,Proteus syndrome,1
+ovarian cancer,pilomatrixoma,1
+ovarian cancer,seborrheic keratosis,1
+Pelizaeus-Merzbacher disease,hereditary spastic paraplegia,1
+hereditary spastic paraplegia,Troyer syndrome,1
+hereditary spastic paraplegia,hereditary sensory neuropathy,2
+hereditary spastic paraplegia,congenital bile acid synthesis defect,1
+hereditary spastic paraplegia,congenital generalized lipodystrophy,1
+hereditary spastic paraplegia,hereditary lymphedema,1
+Refsum disease,infantile refsum disease,1
+Roberts syndrome,SC phocomelia syndrome,1
+craniosynostosis,parietal foramina,2
+Scheie syndrome,mucopolysaccharidosis I,3
+Scheie syndrome,mucopolysaccharidosis,1
+mucopolysaccharidosis I,mucopolysaccharidosis,3
+Seckel syndrome,microcephaly,1
+Stargardt disease,age related macular degeneration,1
+Stargardt disease,achromatopsia,1
+age related macular degeneration,cutis laxa,2
+age related macular degeneration,hemolytic-uremic syndrome,2
+age related macular degeneration,retinal drusen,1
+age related macular degeneration,complement factor I deficiency,1
+achromatopsia,cone dystrophy,1
+Sugio-Kajii syndrome,trichorhinophalangeal syndrome type I,1
+brachydactyly-syndactyly syndrome,brachydactyly,2
+brachydactyly-syndactyly syndrome,syndactyly,1
+brachydactyly-syndactyly syndrome,synpolydactyly,1
+brachydactyly,syndactyly,2
+brachydactyly,synpolydactyly,2
+brachydactyly,acrocapitofemoral dysplasia,1
+brachydactyly,"acromesomelic dysplasia, Grebe type",3
+brachydactyly,"acromesomelic dysplasia, Hunter-Thompson type",3
+brachydactyly,fibular hypoplasia and complex brachydactyly,3
+brachydactyly,multiple synostoses syndrome,4
+brachydactyly,proximal symphalangism,1
+brachydactyly,tarsal-carpal coalition syndrome,1
+syndactyly,synpolydactyly,1
+syndactyly,acheiropody,1
+syndactyly,atrioventricular septal defect,1
+syndactyly,craniometaphyseal dysplasia,1
+syndactyly,hypoplastic left heart syndrome,1
+syndactyly,oculodentodigital dysplasia,2
+Van der Woude syndrome,orofacial cleft,1
+Van der Woude syndrome,popliteal pterygium syndrome,1
+orofacial cleft,popliteal pterygium syndrome,1
+orofacial cleft,tooth agenesis,1
+orofacial cleft,tooth and nail syndrome,1
+piebaldism,mastocytosis,1
+piebaldism,urticaria pigmentosa,1
+Werdnig-Hoffmann disease,adult spinal muscular atrophy,1
+Werdnig-Hoffmann disease,intermediate spinal muscular atrophy,1
+Werdnig-Hoffmann disease,juvenile spinal muscular atrophy,1
+adult spinal muscular atrophy,intermediate spinal muscular atrophy,1
+adult spinal muscular atrophy,juvenile spinal muscular atrophy,1
+intermediate spinal muscular atrophy,juvenile spinal muscular atrophy,1
+Wiskott-Aldrich syndrome,severe congenital neutropenia,1
+severe congenital neutropenia,cyclic hematopoiesis,1
+Wolff-Parkinson-White syndrome,hypertrophic cardiomyopathy,1
+hypertrophic cardiomyopathy,atrial heart septal defect,2
+hypertrophic cardiomyopathy,restrictive cardiomyopathy,2
+hypertrophic cardiomyopathy,distal muscular dystrophy,2
+hypertrophic cardiomyopathy,rippling muscle disease,1
+Wolfram syndrome,cataract,1
+X-linked hypophosphatemia,arterial calcification of infancy,1
+X-linked hypophosphatemia,obesity,1
+arterial calcification of infancy,obesity,1
+arterial calcification of infancy,oculocutaneous albinism,1
+arterial calcification of infancy,pseudoxanthoma elasticum,2
+obesity,asthma,1
+X-linked sideroblastic anemia with ataxia,acrofrontofacionasal dysostosis,1
+X-linked sideroblastic anemia,erythropoietic protoporphyria,1
+achondrogenesis type IB,diastrophic dysplasia,1
+achondrogenesis type IB,multiple epiphyseal dysplasia,1
+diastrophic dysplasia,multiple epiphyseal dysplasia,1
+multiple epiphyseal dysplasia,pseudoachondroplasia,1
+multiple epiphyseal dysplasia,osteoarthritis,1
+acrocallosal syndrome,hydrolethalus syndrome,1
+acrokeratosis verruciformis,keratosis follicularis,1
+"acromesomelic dysplasia, Grebe type","acromesomelic dysplasia, Hunter-Thompson type",1
+"acromesomelic dysplasia, Grebe type",fibular hypoplasia and complex brachydactyly,1
+"acromesomelic dysplasia, Grebe type",multiple synostoses syndrome,1
+"acromesomelic dysplasia, Hunter-Thompson type",fibular hypoplasia and complex brachydactyly,1
+"acromesomelic dysplasia, Hunter-Thompson type",multiple synostoses syndrome,1
+fibular hypoplasia and complex brachydactyly,multiple synostoses syndrome,1
+multiple synostoses syndrome,proximal symphalangism,1
+multiple synostoses syndrome,tarsal-carpal coalition syndrome,1
+hemorrhagic thrombocythemia,myelofibrosis,4
+hemorrhagic thrombocythemia,polycythemia vera,1
+myelofibrosis,polycythemia vera,1
+mastocytosis,urticaria pigmentosa,1
+cutis laxa,supravalvular aortic stenosis,1
+hemolytic-uremic syndrome,retinal drusen,1
+hemolytic-uremic syndrome,complement factor I deficiency,1
+hemolytic-uremic syndrome,complement component 3 deficiency,1
+alopecia universalis,hypotrichosis,1
+hypotrichosis,peeling skin syndrome,1
+alpha thalassemia,thalassemia,4
+amyotrophic lateral sclerosis type 12,primary open angle glaucoma,1
+amyotrophic lateral sclerosis type 13,olivopontocerebellar atrophy,1
+amyotrophic lateral sclerosis type 14,inclusion body myopathy with Paget disease of bone and frontotemporal dementia,1
+amyotrophic lateral sclerosis type 6,essential tremor,1
+anauxetic dysplasia,cartilage-hair hypoplasia,1
+aniridia,coloboma of optic nerve,1
+aniridia,coloboma,1
+coloboma of optic nerve,coloboma,1
+oculocutaneous albinism,pseudoxanthoma elasticum,2
+asphyxiating thoracic dystrophy,craniometaphyseal dysplasia,1
+craniometaphyseal dysplasia,atrioventricular septal defect,1
+craniometaphyseal dysplasia,hypoplastic left heart syndrome,1
+craniometaphyseal dysplasia,oculodentodigital dysplasia,2
+craniometaphyseal dysplasia,chondrocalcinosis,1
+craniometaphyseal dysplasia,sclerosteosis,1
+asthma,migraine,1
+atrial heart septal defect,congenital hypothyroidism,1
+atrial heart septal defect,hypoplastic left heart syndrome,1
+atrial heart septal defect,ventricular septal defect,3
+atrial heart septal defect,atrioventricular septal defect,2
+congenital hypothyroidism,hypoplastic left heart syndrome,1
+congenital hypothyroidism,ventricular septal defect,1
+hypoplastic left heart syndrome,ventricular septal defect,1
+hypoplastic left heart syndrome,atrioventricular septal defect,1
+hypoplastic left heart syndrome,oculodentodigital dysplasia,2
+ventricular septal defect,atrioventricular septal defect,1
+atrioventricular septal defect,oculodentodigital dysplasia,2
+attention deficit hyperactivity disorder,blepharospasm,1
+atypical teratoid rhabdoid tumor,neurilemmomatosis,1
+neurilemmomatosis,neurofibromatosis,1
+non-Hodgkin lymphoma,hemophagocytic lymphohistiocytosis,1
+pilomatrixoma,familial adenomatous polyposis,1
+branchiootic syndrome,branchiootorenal syndrome,1
+dentin dysplasia,dentinogenesis imperfecta,2
+autosomal dominant polycystic kidney,polycystic kidney disease,2
+polycystic kidney disease,autosomal recessive polycystic kidney,1
+autosomal dominant type IV Ehlers-Danlos syndrome,type III Ehlers-Danlos syndrome,1
+type III Ehlers-Danlos syndrome,vesicoureteral reflux,1
+basal cell carcinoma,holoprosencephaly,1
+basal cell carcinoma,nevoid basal cell carcinoma syndrome,2
+holoprosencephaly,nevoid basal cell carcinoma syndrome,1
+bestrophinopathy,vitelliform macular dystrophy,1
+vitelliform macular dystrophy,partial central choroid dystrophy,1
+beta thalassemia,sickle cell anemia,2
+blue cone monochromacy,red-green color blindness,1
+proximal symphalangism,tarsal-carpal coalition syndrome,1
+carpal tunnel syndrome,transthyretin amyloidosis,1
+central core myopathy,malignant hyperthermia,1
+prothrombin deficiency,thrombophilia,1
+thrombophilia,factor XIII deficiency,1
+thrombophilia,homocystinuria,1
+cholecystitis,intrahepatic cholestasis,2
+chondrosarcoma,hereditary multiple exostoses,1
+coenzyme Q10 deficiency disease,multiple system atrophy,1
+combined T cell and B cell immunodeficiency,gamma chain deficiency,1
+common variable immunodeficiency,immunoglobulin alpha deficiency,1
+congenital adrenal hyperplasia,glucocorticoid-remediable aldosteronism,1
+congenital disorder of glycosylation,congenital disorder of glycosylation type II,1
+congenital disorder of glycosylation type II,leukocyte adhesion deficiency,1
+congenital generalized lipodystrophy,primary pulmonary hypertension,1
+primary pulmonary hypertension,pulmonary venoocclusive disease,1
+congenital myasthenic syndrome,hyperkalemic periodic paralysis,1
+congenital myasthenic syndrome,hypokalemic periodic paralysis,1
+hyperkalemic periodic paralysis,hypokalemic periodic paralysis,1
+congenital nystagmus,ocular albinism,1
+diabetic ketoacidosis,maturity-onset diabetes of the young,1
+maturity-onset diabetes of the young,type 1 diabetes mellitus,3
+maturity-onset diabetes of the young,pancreatic agenesis,1
+distal muscular dystrophy,rippling muscle disease,1
+epidermolytic hyperkeratosis,nonepidermolytic palmoplantar keratoderma,1
+nonepidermolytic palmoplantar keratoderma,pachyonychia congenita,1
+episodic ataxia,idiopathic generalized epilepsy,1
+factor XII deficiency,hereditary angioedema,1
+familial combined hyperlipidemia,familial lipoprotein lipase deficiency,1
+familial hypertriglyceridemia,hyperlipoproteinemia type V,1
+fragile X syndrome,fragile X-associated tremor/ataxia syndrome,1
+gangliosidosis GM1,mucopolysaccharidosis IV,3
+hereditary elliptocytosis,hereditary spherocytosis,1
+hyperparathyroidism,parathyroid carcinoma,2
+tooth agenesis,tooth and nail syndrome,1
+inclusion body myositis,sialuria,2
+lung small cell carcinoma,retinoblastoma,1
+lung small cell carcinoma,trilateral retinoblastoma,1
+retinoblastoma,trilateral retinoblastoma,1
+multinodular goiter,pleuropulmonary blastoma,1
+pontocerebellar hypoplasia type 2A,pontocerebellar hypoplasia type 4,1
+pontocerebellar hypoplasia type 2A,pontocerebellar hypoplasia type 5,1
+pontocerebellar hypoplasia type 4,pontocerebellar hypoplasia type 5,1

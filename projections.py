@@ -43,7 +43,18 @@ print("Number of nodes: {}".format(projection1.number_of_nodes()))
 # saving projection1 graph
 nx.write_gml(projection1, "data/projection1.gml")
 
+# write projection1 to weighted edge list csv file
+df_projection1 = nx.to_pandas_edgelist(projection1)
+df_projection1.columns = ['disease1', 'disease2', 'weight']
+df_projection1.to_csv("data/projection1.csv", index=False)
+
+
 """Next, We extract the phenotype-based disease-disease associations projection (2nd layer)."""
+
+
+# df_projection1 = nx.to_pandas_edgelist(projection1)
+# df_projection1.to_csv("data/projection1.csv", index=False)
+
 
 # Creating the 2nd layer (phenotype-based disease-disease network projection)
 
