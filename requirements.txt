@@ -1,0 +1,6 @@
+pyvis
+prettytable
+infomap
+python-louvain 
+cdlib 
+community 
