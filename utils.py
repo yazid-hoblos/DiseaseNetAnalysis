@@ -8,6 +8,7 @@ import random as rnd
 import collections
 from scipy.stats import linregress
 import pickle
+import os
 
 def load_network(file_path):
     with open(file_path, "rb") as f:
@@ -28,7 +29,7 @@ def plot_centrality(network, centrality,name=None):
     plt.title(centrality.__name__)
     plt.xlabel(f"{centrality.__name__} Distribution")
     plt.ylabel("Frequency")
-    plt.savefig(f"plots/{name+'_'+centrality.__name__}.png")
+    plt.savefig(f"plots/{name}/{name+'_'+centrality.__name__}.png")
     plt.clf()
 
     return
@@ -80,6 +81,8 @@ def print_metrics(network, network_name="Disease Network"):
     print("--------------------------")
 
 def plot_centralities(network, title):
+    if not os.path.exists(title):
+        os.makedirs(f'plots/{title}')
     plot_centrality(network, nx.degree_centrality, title)
     plot_centrality(network, nx.betweenness_centrality, title)
     plot_centrality(network, nx.closeness_centrality, title)
