@@ -81,7 +81,7 @@ def print_metrics(network, network_name="Disease Network"):
     print("--------------------------")
 
 def plot_centralities(network, title):
-    if not os.path.exists(title):
+    if not os.path.exists(f'plots/{title}'):
         os.makedirs(f'plots/{title}')
     plot_centrality(network, nx.degree_centrality, title)
     plot_centrality(network, nx.betweenness_centrality, title)

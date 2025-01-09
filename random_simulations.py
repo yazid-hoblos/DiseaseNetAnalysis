@@ -12,8 +12,6 @@ We tried generating an ER network with same density as the Disease Network.
 We calculate a p value, p = 2m / (n(n-1))^2, such that using this p value would results in a same density ER network
 """
 
-graph_density = nx.density(G)
-
 # get p for ER such that the graph has the same density as the original graph
 # p = 2m / (n(n-1))^2
 
