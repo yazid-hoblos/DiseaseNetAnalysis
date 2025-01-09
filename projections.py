@@ -1,14 +1,8 @@
 ## Data preparation
 
-import sys
 import pandas as pd
 import matplotlib.pyplot as plt
-import prettytable
 import networkx as nx
-import numpy as np
-from pyvis.network import Network
-import matplotlib.colors
-from IPython.display import display, HTML
 from collections import defaultdict
 import itertools
 
@@ -48,3 +42,34 @@ print("Number of nodes: {}".format(projection1.number_of_nodes()))
 
 # saving projection1 graph
 nx.write_gml(projection1, "data/projection1.gml")
+
+"""Next, We extract the phenotype-based disease-disease associations projection (2nd layer)."""
+
+# Creating the 2nd layer (phenotype-based disease-disease network projection)
+
+df_p = df.iloc[:,[0,3]]
+associations = defaultdict(list)
+for _, row in df_p.iterrows():
+    associations[row.iloc[1]].append(row.iloc[0])
+
+projection2 = nx.Graph()
+
+for associated_elements in associations.values():
+    for pair in itertools.combinations(associated_elements, 2):
+        if projection2.has_edge(*pair):
+            projection2[pair[0]][pair[1]]['weight'] += 1
+        else:
+            projection2.add_edge(pair[0], pair[1], weight=1)
+
+projection2.remove_edges_from(nx.selfloop_edges(projection2))
+projection2.remove_nodes_from(list(nx.isolates(projection2)))
+
+print("Number of nodes: {}".format(projection2.number_of_nodes()))
+
+"""We validate that the number of diseases in the final multiplex (after filtering the isolated nodes in both layers) is 779 as reported in the paper."""
+
+# The final number of diseases in the multiplex of the 2 layers
+print(f'Combined: {len(set(projection1.nodes()).union(set(projection2.nodes())))}')
+
+# saving projection2 graph
+nx.write_gml(projection2, "data/projection2.gml")
