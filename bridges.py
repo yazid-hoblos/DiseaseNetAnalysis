@@ -1,6 +1,7 @@
 from utils import load_network
 import networkx as nx
 import matplotlib.pyplot as plt
+import pandas as pd
 
 """
 ### Identifying Important Bridges
@@ -34,3 +35,7 @@ plt.xlabel("Shortest Path Length")
 plt.ylabel("Frequency")
 plt.title("Distribution of Shortest Paths")
 plt.show()
+
+# saving the important edges
+important_edges_df = pd.DataFrame(important_edges, columns=["disease1", "disease2", "shortest_path_length"])
+important_edges_df.to_csv("data/important_edges.csv", index=False)
