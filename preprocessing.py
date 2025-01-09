@@ -8,7 +8,7 @@ import networkx as nx
 import numpy as np
 from pyvis.network import Network
 import matplotlib.colors
-from IPython.core.display import display, HTML
+from IPython.display import display, HTML
 from collections import defaultdict
 import itertools
 
@@ -25,7 +25,7 @@ df.head()
 df_g = df.iloc[:,[0,6]]
 associations = defaultdict(list)
 for _, row in df_g.iterrows():
-    associations[row[1]].append(row[0])
+	associations[row.iloc[1]].append(row.iloc[0])
 
 projection1 = nx.Graph()
 
@@ -45,3 +45,6 @@ projection1.remove_edges_from(nx.selfloop_edges(projection1))
 projection1.remove_nodes_from(list(nx.isolates(projection1)))
 
 print("Number of nodes: {}".format(projection1.number_of_nodes()))
+
+# saving projection1 graph
+nx.write_gml(projection1, "data/projection1.gml")
