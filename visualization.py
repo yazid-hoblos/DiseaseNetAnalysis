@@ -20,7 +20,7 @@ df.head()
 
 G = nx.from_pandas_edgelist(df, source='disease1', target='disease2', edge_attr='weight')
 # save the network for later use
-with open("data/network.gpickle", "wb") as f:
+with open("data/disease_network.gpickle", "wb") as f:
     pickle.dump(G, f)
 
 """## Visualizing the Network

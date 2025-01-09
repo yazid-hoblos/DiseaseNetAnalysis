@@ -7,6 +7,12 @@ import itertools
 import random as rnd
 import collections
 from scipy.stats import linregress
+import pickle
+
+def load_network(file_path):
+    with open(file_path, "rb") as f:
+        G = pickle.load(f)
+    return G
 
 def draw_network(network):
     pos=nx.spring_layout(network)

@@ -1,8 +1,6 @@
 from utils import *
-import pickle 
 
-with open("data/network.gpickle", "rb") as f:
-    G = pickle.load(f)
+G = load_network("data/disease_network.gpickle")
     
 """## Identify the Disease Network Components
 
